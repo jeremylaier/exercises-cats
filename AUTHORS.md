@@ -9,6 +9,7 @@
 The maintainers of the project are:
 
 - [![47erbot](https://avatars1.githubusercontent.com/u/24799081?v=4&s=20) **47erbot**](https://github.com/47erbot)
+- [![alejandrohdezma](https://avatars0.githubusercontent.com/u/9027541?v=4&s=20) **Alejandro Hernández (alejandrohdezma)**](https://github.com/alejandrohdezma)
 - [![angoglez](https://avatars0.githubusercontent.com/u/10107285?v=4&s=20) **Ana Gómez González (angoglez)**](https://github.com/angoglez)
 - [![andyscott](https://avatars3.githubusercontent.com/u/310363?v=4&s=20) **Andy Scott (andyscott)**](https://github.com/andyscott)
 - [![BenFradet](https://avatars2.githubusercontent.com/u/1737211?v=4&s=20) **Ben Fradet (BenFradet)**](https://github.com/BenFradet)
@@ -25,8 +26,8 @@ The maintainers of the project are:
 These are the people that have contributed to the _exercises-cats_ project:
 
 - [![juanpedromoreno](https://avatars2.githubusercontent.com/u/4879373?v=4&s=20) **juanpedromoreno**](https://github.com/juanpedromoreno)
-- [![raulraja](https://avatars3.githubusercontent.com/u/456796?v=4&s=20) **raulraja**](https://github.com/raulraja)
 - [![47erbot](https://avatars1.githubusercontent.com/u/24799081?v=4&s=20) **47erbot**](https://github.com/47erbot)
+- [![raulraja](https://avatars3.githubusercontent.com/u/456796?v=4&s=20) **raulraja**](https://github.com/raulraja)
 - [![kiroco12](https://avatars1.githubusercontent.com/u/48894338?v=4&s=20) **kiroco12**](https://github.com/kiroco12)
 - [![rafaparadela](https://avatars3.githubusercontent.com/u/315070?v=4&s=20) **rafaparadela**](https://github.com/rafaparadela)
 - [![aeons](https://avatars2.githubusercontent.com/u/1432894?v=4&s=20) **aeons**](https://github.com/aeons)
@@ -42,6 +43,8 @@ These are the people that have contributed to the _exercises-cats_ project:
 - [![FRosner](https://avatars2.githubusercontent.com/u/3427394?v=4&s=20) **FRosner**](https://github.com/FRosner)
 - [![ikhoon](https://avatars1.githubusercontent.com/u/1866157?v=4&s=20) **ikhoon**](https://github.com/ikhoon)
 - [![jkmcclellan](https://avatars3.githubusercontent.com/u/52432856?v=4&s=20) **jkmcclellan**](https://github.com/jkmcclellan)
+- [![jeremylaier](https://avatars1.githubusercontent.com/u/50848217?v=4&s=20) **jeremylaier**](https://github.com/jeremylaier)
+- [![chipmunklimo](https://avatars3.githubusercontent.com/u/4879096?v=4&s=20) **chipmunklimo**](https://github.com/chipmunklimo)
 - [![mayonesa](https://avatars3.githubusercontent.com/u/56529?v=4&s=20) **mayonesa**](https://github.com/mayonesa)
 - [![lloydmeta](https://avatars3.githubusercontent.com/u/914805?v=4&s=20) **lloydmeta**](https://github.com/lloydmeta)
 - [![mttkay](https://avatars3.githubusercontent.com/u/102802?v=4&s=20) **mttkay**](https://github.com/mttkay)
@@ -51,6 +54,8 @@ These are the people that have contributed to the _exercises-cats_ project:
 - [![sergiohgz](https://avatars3.githubusercontent.com/u/14012309?v=4&s=20) **sergiohgz**](https://github.com/sergiohgz)
 - [![Thangiee](https://avatars2.githubusercontent.com/u/4734933?v=4&s=20) **Thangiee**](https://github.com/Thangiee)
 - [![TobiasRoland](https://avatars2.githubusercontent.com/u/5878818?v=4&s=20) **TobiasRoland**](https://github.com/TobiasRoland)
+- [![alejandrohdezma](https://avatars0.githubusercontent.com/u/9027541?v=4&s=20) **alejandrohdezma**](https://github.com/alejandrohdezma)
+- [![tr4rex](https://avatars1.githubusercontent.com/u/13753704?v=4&s=20) **tr4rex**](https://github.com/tr4rex)
 - [![augustjune](https://avatars0.githubusercontent.com/u/29662354?v=4&s=20) **augustjune**](https://github.com/augustjune)
 - [![Kobenko](https://avatars0.githubusercontent.com/u/21039161?v=4&s=20) **Kobenko**](https://github.com/Kobenko)
 - [![RawToast](https://avatars2.githubusercontent.com/u/8013000?v=4&s=20) **RawToast**](https://github.com/RawToast)

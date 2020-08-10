@@ -16,13 +16,13 @@ lazy val exercises = (project in file("."))
   .settings(name := "exercises-cats")
   .settings(
     libraryDependencies ++= Seq(
-      "org.scala-exercises"        %% "exercise-compiler"         % "0.6.3",
-      "org.scala-exercises"        %% "definitions"               % "0.6.3",
+      "org.scala-exercises"        %% "exercise-compiler"         % "0.6.5",
+      "org.scala-exercises"        %% "definitions"               % "0.6.5",
       "org.typelevel"              %% "cats-core"                 % "2.1.1",
       "com.chuusai"                %% "shapeless"                 % "2.3.3",
-      "org.scalatest"              %% "scalatest"                 % "3.2.0",
+      "org.scalatest"              %% "scalatest"                 % "3.2.1",
       "org.scalacheck"             %% "scalacheck"                % "1.14.3",
-      "org.scalatestplus"          %% "scalacheck-1-14"           % "3.2.0.0",
+      "org.scalatestplus"          %% "scalacheck-1-14"           % "3.2.1.0",
       "com.github.alexarchambault" %% "scalacheck-shapeless_1.14" % "1.2.5"
     ),
     addCompilerPlugin("org.typelevel" %% "kind-projector" % "0.11.0" cross CrossVersion.full)

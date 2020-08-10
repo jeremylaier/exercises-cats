@@ -1,5 +1,41 @@
 # Changelog
 
+## [v0.6.7](https://github.com/scala-exercises/exercises-cats/tree/v0.6.7) (2020-08-10)
+
+[Full Changelog](https://github.com/scala-exercises/exercises-cats/compare/v0.6.6...v0.6.7)
+
+📈 **Dependency updates**
+
+- Update definitions, exercise-compiler, ... to 0.6.5 [\#139](https://github.com/scala-exercises/exercises-cats/pull/139) ([47erbot](https://github.com/47erbot))
+
+## [v0.6.6](https://github.com/scala-exercises/exercises-cats/tree/v0.6.6) (2020-08-10)
+
+[Full Changelog](https://github.com/scala-exercises/exercises-cats/compare/v0.6.5...v0.6.6)
+
+📈 **Dependency updates**
+
+- Update definitions, exercise-compiler, ... to 0.6.4 [\#138](https://github.com/scala-exercises/exercises-cats/pull/138) ([47erbot](https://github.com/47erbot))
+
+## [v0.6.5](https://github.com/scala-exercises/exercises-cats/tree/v0.6.5) (2020-08-10)
+
+[Full Changelog](https://github.com/scala-exercises/exercises-cats/compare/v0.6.4...v0.6.5)
+
+📈 **Dependency updates**
+
+- Update sbt-mdoc to 2.2.4 [\#137](https://github.com/scala-exercises/exercises-cats/pull/137) ([47erbot](https://github.com/47erbot))
+- Update scalacheck-1-14 to 3.2.1.0 [\#136](https://github.com/scala-exercises/exercises-cats/pull/136) ([47erbot](https://github.com/47erbot))
+- Update scalatest to 3.2.1 [\#135](https://github.com/scala-exercises/exercises-cats/pull/135) ([47erbot](https://github.com/47erbot))
+- Update sbt-scalafmt to 2.4.2 [\#133](https://github.com/scala-exercises/exercises-cats/pull/133) ([47erbot](https://github.com/47erbot))
+- Update scalafmt-core to 2.6.4 [\#132](https://github.com/scala-exercises/exercises-cats/pull/132) ([47erbot](https://github.com/47erbot))
+- Update scalafmt-core to 2.6.3 [\#129](https://github.com/scala-exercises/exercises-cats/pull/129) ([scala-steward](https://github.com/scala-steward))
+- Update scalafmt-core to 2.6.2 [\#126](https://github.com/scala-exercises/exercises-cats/pull/126) ([scala-steward](https://github.com/scala-steward))
+
+**Merged pull requests:**
+
+- Update EitherSection.scala [\#130](https://github.com/scala-exercises/exercises-cats/pull/130) ([chipmunklimo](https://github.com/chipmunklimo))
+- Updated Eval Exercise to take input, spec was off as well [\#127](https://github.com/scala-exercises/exercises-cats/pull/127) ([jeremylaier](https://github.com/jeremylaier))
+- Fix minor bug in code snippet example [\#69](https://github.com/scala-exercises/exercises-cats/pull/69) ([tr4rex](https://github.com/tr4rex))
+
 ## [v0.6.4](https://github.com/scala-exercises/exercises-cats/tree/v0.6.4) (2020-06-30)
 
 [Full Changelog](https://github.com/scala-exercises/exercises-cats/compare/v0.6.3...v0.6.4)
@@ -75,6 +111,7 @@
 - Updating libraries versions [\#57](https://github.com/scala-exercises/exercises-cats/pull/57) ([dominv](https://github.com/dominv))
 - Fixes missing cats Dependency [\#56](https://github.com/scala-exercises/exercises-cats/pull/56) ([juanpedromoreno](https://github.com/juanpedromoreno))
 - Update cats to 0.9.0 and change Xor to Either [\#55](https://github.com/scala-exercises/exercises-cats/pull/55) ([aeons](https://github.com/aeons))
+- Update .travis.yml [\#50](https://github.com/scala-exercises/exercises-cats/pull/50) ([juanpedromoreno](https://github.com/juanpedromoreno))
 
 ## [v0.4.0](https://github.com/scala-exercises/exercises-cats/tree/v0.4.0) (2017-03-28)
 
@@ -92,7 +129,6 @@
 **Merged pull requests:**
 
 - Integrates sbt-org-policies plugin [\#52](https://github.com/scala-exercises/exercises-cats/pull/52) ([juanpedromoreno](https://github.com/juanpedromoreno))
-- Update .travis.yml [\#50](https://github.com/scala-exercises/exercises-cats/pull/50) ([juanpedromoreno](https://github.com/juanpedromoreno))
 - Update Foldable.scala [\#49](https://github.com/scala-exercises/exercises-cats/pull/49) ([lloydmeta](https://github.com/lloydmeta))
 - Updates PGP keys [\#47](https://github.com/scala-exercises/exercises-cats/pull/47) ([juanpedromoreno](https://github.com/juanpedromoreno))
 - SE-597 - Upgrade Libs [\#45](https://github.com/scala-exercises/exercises-cats/pull/45) ([juanpedromoreno](https://github.com/juanpedromoreno))
